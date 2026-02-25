@@ -1,0 +1,9 @@
+{
+  "frontend/src/App.tsx": "Main application entry point that renders the BasketballGame component.",
+  "frontend/src/pages/BasketballGame.tsx": "Main game page component that orchestrates the basketball game with header, canvas, controls, score display, success message notifications for made shots, and footer with state management for score and game interactions.",
+  "frontend/src/components/GameCanvas.tsx": "Canvas-based game rendering component that handles basketball physics with trajectory-based shot detection, draws the court/hoop/ball using images, implements success animations with glowing effects and particles, and detects successful shots through the hoop based on power and angle alignment with proper TypeScript types for React 19.",
+  "frontend/src/components/ScoreDisplay.tsx": "Score display card component showing current score with trophy icon and encouraging messages based on performance.",
+  "frontend/src/components/GameInstructions.tsx": "Collapsible instructions card explaining game controls and objectives with visual icons.",
+  "frontend/src/hooks/useQueries.ts": "Placeholder file for React Query hooks (intentionally minimal as game is frontend-only).",
+  "frontend/src/index.css": "Global styles with OKLCH color system and custom styling for range input slider with basketball-themed orange gradient."
+}
